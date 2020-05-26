@@ -18,7 +18,7 @@
         "symfony/dependency-injection": "~4.0",
         "symfony/console": "~4.0",
         "symfony/yaml": "~4.0",
-        "kriswallsmith/assetic": "~1.4"
+        "kriswallsmith/assetic": "dev-symfony-process-4-compatibility"
     },
     "require-dev": {
         "patchwork/jsqueeze": "~1.0",
